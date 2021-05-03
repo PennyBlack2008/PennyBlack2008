@@ -1,5 +1,5 @@
 ### Welcome Penni's page 👋
-
+![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C)
 🔭 I’m currently working on Webserver(42 subject)
 
 [![Penni's GitHub stats](https://github-readme-stats.vercel.app/api?username=PennyBlack2008)](https://github.com/PennyBlack2008/github-readme-stats)
