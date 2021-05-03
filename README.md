@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome Jinwoo Kang's page 👋
 
 <!--
 **PennyBlack2008/PennyBlack2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
