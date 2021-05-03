@@ -1,7 +1,8 @@
 ### Welcome Penni's page 👋
-![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C)
+
 🔭 I’m currently working on Webserver(42 subject)
 
+![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C)
 [![Penni's GitHub stats](https://github-readme-stats.vercel.app/api?username=PennyBlack2008)](https://github.com/PennyBlack2008/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g2ang12@gmail.com)](mailto:g2ang12@gmail.com)
