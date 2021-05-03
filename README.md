@@ -6,7 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g2ang12@gmail.com)](mailto:g2ang12@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwoo-kang-568726154/)](https://www.linkedin.com/in/jinwoo-kang-568726154/)
-[![](https://www.42.fr/wp-content/themes/42/images/42_logo_black.svg)
+![](https://www.42.fr/wp-content/themes/42/images/42_logo_black.svg){: width="42" height="42"}
 <!--
 **PennyBlack2008/PennyBlack2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
