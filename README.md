@@ -1,7 +1,7 @@
-### Welcome Penny's page 👋
+### Welcome Penni's page 👋
 
 - 🔭 I’m currently working on Webserver(42 subject)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Penni's GitHub stats](https://github-readme-stats.vercel.app/api?username=PennyBlack2008)](https://github.com/PennyBlack2008/github-readme-stats)
 <!--
 **PennyBlack2008/PennyBlack2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
