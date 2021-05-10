@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Webserver(42 subject)](https://github.com/404-DriverNotFound/200-OK)
 
-![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C) ![](https://img.shields.io/badge/-Docker-blue)
+![](https://img.shields.io/badge/-C%2FC%2B%2B-%2300599C) ![](https://img.shields.io/badge/-Docker-blue) ![](https://img.shields.io/badge/-k8s-blue)
 
 [![Penni's GitHub stats](https://github-readme-stats.vercel.app/api?username=PennyBlack2008)](https://github.com/PennyBlack2008/github-readme-stats)
 
